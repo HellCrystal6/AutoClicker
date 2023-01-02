@@ -2,7 +2,6 @@ import customtkinter
 import tkinter
 import keyboard
 import pyautogui as pyg
-from colorama import Fore
 
 def clicker():
     customtkinter.set_appearance_mode("dark")
