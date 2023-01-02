@@ -2,7 +2,7 @@
 Simple AutoClicker that can be used for anything!
 
 # Required Libraries:
-# CustomTkinter, Keyboard, PyAutoGUI, Colorama
+CustomTkinter, Keyboard, PyAutoGUI, Colorama
 
 # Commands to install:
 # pip install customtkinter, pip install keyboard, pip install pyautogui, pip install colorama
